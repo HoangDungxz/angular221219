@@ -96,7 +96,7 @@ function cau5(caue){
 
 
 for(j=0;j<quest_all.length-1;j++){
-	kq.append("<h4 class='col-md-6 his' onclick='history(quest_all["+j+"])' style='color: #ccc'>Câu  "+(j+1) +"</h4>");
+	kq.append("<h4 class='col-md-6 col-xs-3 col-sm-3 his' onclick='history(quest_all["+j+"])' style='color: #ccc'>Câu  "+(j+1) +"</h4>");
 }
 var his = document.getElementsByClassName("his");
 var z=0;
