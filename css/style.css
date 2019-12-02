@@ -28,7 +28,7 @@ body{
 #aswer{
 	overflow: hidden;
 	background-color: #eee;
-	font-size: 20px;
+	font-size: 30px;
 	border-bottom: 5px solid gray;
 	cursor: url("../imgs/m1.png"), auto;
 }
